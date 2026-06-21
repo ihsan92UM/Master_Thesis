@@ -29,33 +29,33 @@ Download and install all three required software packages, then open **STM32Cube
 # Importing a Sample Programme
 
 1. Launch STM32CubeIDE 1.17.0 and choose a folder as your workspace directory.  
-   ![Workspace selection](../Graphics/select_directory.png)
+   ![Workspace selection](../graphics/select_directory.png)
 
 2. After selecting the preferred folder, the STM32CubeIDE user interface will load.  
-   ![STM32 default view](../Graphics/stm32_view.png)
+   ![STM32 default view](../graphics/stm32_view.png)
 
 3. From the start screen, select **Import project**.  
-   ![Import project selection](../Graphics/import_projects.png)
+   ![Import project selection](../graphics/import_projects.png)
 
 4. Navigate to the functional board demo code and select the options shown below.  
-   ![File selection](../Graphics/import_project_files.png)
+   ![File selection](../graphics/import_project_files.png)
 
 5. Click **Finish**.
 
 6. The project will open as **stm32c0-basic-demo-fw** in STM32CubeIDE. Navigate to the **Src** folder and open `main.c` to activate the build option.  
-   ![Project explorer](../Graphics/open_mainc.png)
+   ![Project explorer](../graphics/open_mainc.png)
 
 7. Once `main.c` is opened, the build option becomes active. It is shown as a small hammer icon.  
-   ![Build file](../Graphics/build_files.png)
+   ![Build file](../graphics/build_files.png)
 
 8. Click the build option to compile the code.  
-   ![Build console](../Graphics/build_project.png)
+   ![Build console](../graphics/build_project.png)
 
 9. Select the project and click **Debug** to open the debug configuration window. In the **Main** tab, the build configuration name is automatically set to the project name.  
-   ![Build configuration](../Graphics/build_config.png)
+   ![Build configuration](../graphics/build_config.png)
 
 10. Open the **Debugger** tab, select the **SWD** interface, tick **ST-LINK S/N**, click **Scan** for the Nucleo board, then click **Apply** and **OK**.  
-    ![Debugger configuration](../Graphics/debugger_config.png)
+    ![Debugger configuration](../graphics/debugger_config.png)
 
 11. The IDE will now generate and build the code before flashing it to the board. Once flashing is complete, the **Debug perspective** will open.
 
