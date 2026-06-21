@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STS4L_AD1B_R3'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Sensirion", "STS4L-AD1B-R3" (!) = "", "STS4LAD1BR3", "Other", "", "", "", "", "Board Mount Temperature Sensors The STS4L is a fully digital, highly cost-effective temperature sensor that provides the accuracy required for most applications.", "https://sensirion.com/media/documents/D2D0B4A9/667AC1F4/HT_DS_Datasheet_STS4x.pdf", "0.65 mm"
+END_PART
+
+END.

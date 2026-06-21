@@ -1,0 +1,18 @@
+.STS4L-AD1B-R3 :1 ;Board Mount Temperature Sensors The STS4L is a fully digital, highly cost-effective temperature sensor that provides the accuracy required for most applications.
+STS4LAD1BR3
+*STM IC
+*NGS
+*PLB 1="SDA" 2="SCL" 3="VDD" 4="VSS"
+*MXP 4
+*DFN STS4L-AD1B-R3
+~!Manufacturer_Name (Sensirion)
+~!Manufacturer_Part_Number (STS4L-AD1B-R3)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://sensirion.com/media/documents/D2D0B4A9/667AC1F4/HT_DS_Datasheet_STS4x.pdf)
+~!Height (0.65mm)
+~!3D_Model (STS4L-AD1B-R3)
+STS4L-AD1B-R3
+1.1!U 2.1!U 3.1!U 4.1!U 

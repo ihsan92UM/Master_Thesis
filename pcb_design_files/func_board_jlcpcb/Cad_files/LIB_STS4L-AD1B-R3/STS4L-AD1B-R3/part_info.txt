@@ -1,0 +1,9 @@
+Manufacturer=Sensirion
+PartNumber=STS4L-AD1B-R3
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2025-03-08 06:51:15
+Downloaded=2026-01-22 15:50:08
+3D=Y

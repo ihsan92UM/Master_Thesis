@@ -25,3 +25,36 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.osgi.service.dataloca
 	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfile(SimpleProfileRegistry.java:192)
 	at org.eclipse.equinox.internal.p2.ui.sdk.scheduler.AutomaticUpdateScheduler$1.run(AutomaticUpdateScheduler.java:74)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2026-06-21 13:58:48.494 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-06-21 13:58:55.983
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-06-21 13:58:55.985
+!MESSAGE Log4j2 initialized with config file C:\Users\Ihsan\Documents\Master_Thesis\stm32c0_codes\stm32c0-basic-demo-fw\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-06-21 13:58:59.568
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.jobs 2 2 2026-06-21 13:59:08.058
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$39
+!SESSION 2026-06-21 15:24:10.249 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\Ihsan\Documents\Master_Thesis\stm32c0_codes\stm32c0-basic-demo-fw
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-06-21 15:24:15.950
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-06-21 15:24:15.957
+!MESSAGE Log4j2 initialized with config file C:\Users\Ihsan\Documents\Master_Thesis\stm32c0_codes\stm32c0-basic-demo-fw\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-06-21 15:24:20.213
+!MESSAGE Started RMI Server, listening on port 41337

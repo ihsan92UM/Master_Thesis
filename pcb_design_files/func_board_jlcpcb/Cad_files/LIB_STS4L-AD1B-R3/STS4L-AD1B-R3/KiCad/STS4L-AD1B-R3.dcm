@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STS4L-AD1B-R3
+D Board Mount Temperature Sensors The STS4L is a fully digital, highly cost-effective temperature sensor that provides the accuracy required for most applications.
+K
+F https://sensirion.com/media/documents/D2D0B4A9/667AC1F4/HT_DS_Datasheet_STS4x.pdf
+$ENDCMP
+#
+#End Doc Library
