@@ -23,7 +23,7 @@ To program the functional board using SWD, first connect the STLINK-V3MINIE STDC
 > [!IMPORTANT]
 > Functional board has to be powered by USB-C because the STLINKV3MINIE programmer doesn't provide the board with power. The Programmer only senses the VDD and GND levels. 
 
-![Connection diagram](../graphics/programmer_bridge.jpg)
+![Connection diagram](../graphics/programmer_bridge.png)
 
 # Setup Validation
 
